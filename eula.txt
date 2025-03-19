@@ -1,0 +1,3 @@
+eula=Bungee
+
+Magurock=ちょっとした変更をした
